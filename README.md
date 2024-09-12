@@ -4,4 +4,4 @@ Creación y gestión de entornos virtuales de Python, el desarrollo de una aplic
 Este aplicacon muestra la base de datos de Venta de Autos  y posteriormente genera un histograma y  una grafica de dispercion con vase al kilometraje de los autos.
 Finalmete genera una retroalimentacion para el usuario.  
 
-https://proyecto6-1.onrender.com
+https://proyecto6-1.onrender.com/
